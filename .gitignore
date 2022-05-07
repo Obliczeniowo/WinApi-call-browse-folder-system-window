@@ -1,0 +1,8 @@
+Debug/*
+Release/*
+*/Debug/*
+*/Release/*
+*.db
+.vs/*
+*.ncb
+Release/*
